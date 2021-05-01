@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:lottie/lottie.dart';
 
 class MyHomePage extends StatefulWidget {
   @override
@@ -6,19 +7,12 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  Color secondaryColor = Color.fromRGBO(150, 64, 186, 1);
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: secondaryColor,
       body: Center(
         child: Container(
-          width: 200,
-          height: 200,
-          child: Image.asset(
-            "assets/animations/rocket.gif",
-            fit: BoxFit.contain,
-          ),
+          child: Lottie.asset('assets/animations/rocket.json'),
         ),
       ),
     );
