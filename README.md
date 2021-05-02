@@ -7,7 +7,7 @@
 [![Flutter](https://img.shields.io/badge/_Flutter_-App-grey.svg?&logo=Flutter&logoColor=white&labelColor=blue)](https://github.com/vijayinyoutube/ui_screen)
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/58719230/99499386-d4ff3a00-299e-11eb-8fe3-9435012b85f4.png" width="100%">
+<img src="https://user-images.githubusercontent.com/58719230/116808326-cd4ede80-ab55-11eb-9696-eead0e9a0db8.png" width="100%">
 </p>
 
 ## Flutter
@@ -17,8 +17,6 @@
 
 ## App
 
-
-Check out the video tutorial 👉 :
 
 To know more awesome content about Flutter., 
 
@@ -35,9 +33,7 @@ Visit my channel 👉 : https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ
 
 ## Sample Results
 
-Languages | English | Tamil |
---- | --- | --- |
-Images | <img src="https://user-images.githubusercontent.com/58719230/99151490-924d1180-26c1-11eb-85a4-aa6efd2a89ce.png" > | <img src="https://user-images.githubusercontent.com/58719230/99151496-9a0cb600-26c1-11eb-8075-7b3deacb908b.png"> |
+<img src="https://user-images.githubusercontent.com/58719230/116808327-ce800b80-ab55-11eb-96be-d34b5b878f68.png" > 
 
 ## License
 
